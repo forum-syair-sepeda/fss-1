@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://forum-syair-sepeda.github.io/fss-1/sitemap.xml
